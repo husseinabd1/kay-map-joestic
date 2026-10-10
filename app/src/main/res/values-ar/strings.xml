@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kay Joystick Mapper</string>
+    <string name="accessibility_service_name">Kay Joystick Mapper</string>
+    <string name="accessibility_service_description">يعيد تعيين أزرار يد PlayStation إلى أوامر Android TV.</string>
+
+    <string name="title">Kay Joystick Mapper</string>
+    <string name="subtitle">عيّن أزرار يد PS4 إلى أوامر Android TV.</string>
+    <string name="accessibility_status_on">خدمة إمكانية الوصول مفعلة</string>
+    <string name="accessibility_status_off">خدمة إمكانية الوصول غير مفعلة</string>
+    <string name="open_accessibility_settings">فتح إعدادات إمكانية الوصول</string>
+    <string name="reset_mappings">إعادة التعيين</string>
+    <string name="test_title">اختبار يد التحكم</string>
+    <string name="last_key_empty">اضغط زرًا من يد PS4 لاختبار التعرف.</string>
+    <string name="last_key_format">آخر زر: %1$s (%2$d)</string>
+    <string name="mapping_title">تعيين الأزرار</string>
+    <string name="mapping_note">بعض أجهزة Android TV تحجز زر PS أو زر Share أو أزرار اللعب داخل الألعاب. الأزرار المحجوزة قد لا تصل إلى خدمة إمكانية الوصول.</string>
+
+    <string name="action_disabled">معطل</string>
+    <string name="action_back">رجوع</string>
+    <string name="action_home">الرئيسية</string>
+    <string name="action_recents">التطبيقات الأخيرة</string>
+    <string name="action_play_pause">تشغيل / إيقاف مؤقت</string>
+    <string name="action_next_track">الوسائط التالية</string>
+    <string name="action_previous_track">الوسائط السابقة</string>
+    <string name="action_volume_up">رفع الصوت</string>
+    <string name="action_volume_down">خفض الصوت</string>
+
+    <string name="key_cross">X / كروس</string>
+    <string name="key_circle">O / دائرة</string>
+    <string name="key_square">مربع</string>
+    <string name="key_triangle">مثلث</string>
+    <string name="key_l1">L1</string>
+    <string name="key_r1">R1</string>
+    <string name="key_l2">L2</string>
+    <string name="key_r2">R2</string>
+    <string name="key_options">Options</string>
+    <string name="key_share">Share</string>
+    <string name="key_l3">L3</string>
+    <string name="key_r3">R3</string>
+    <string name="key_ps">زر PS</string>
+    <string name="key_unknown">زر غير معروف</string>
+</resources>
